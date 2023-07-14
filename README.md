@@ -16,7 +16,7 @@ Steam Deck Mockup site is a web application that showcases the Steam Deck, an al
 
 - HTML
 - CSS
-- 
+  
 ## Getting Started
 
 To view the Site, follow these steps:
