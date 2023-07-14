@@ -1,21 +1,37 @@
-# co360449dae8b84629db4b2b7
+# Steam Deck Mockup site
 
-Quick start:
+Steam Deck Mockup site is a web application that showcases the Steam Deck, an all-in-one portable PC gaming device. The website provides information about the Steam Deck's features, technical specifications, and availability for purchase.
 
-```
-$ npm install
-$ npm start
-````
+## Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- Visual Presentation: Engaging layout and design elements to highlight the Steam Deck.
+- Navigation Menu: Easy navigation with links to different sections of the site.
+- Video Content: Showcasing the Steam Deck through video trailers and feature highlights.
+- Product Details: Description of the Steam Deck's features and benefits.
+- Call-to-Action Buttons: Prominent buttons for purchasing the device and accessing technical specifications.
+- Responsive Design: The site is optimized for various screen sizes and devices.
+- Footer: Displays copyright information.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Technologies Used
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- HTML
+- CSS
+- 
+## Getting Started
 
-Happy Coding!
+To view the Site, follow these steps:
+
+1. Clone or download the repository.
+2. Open the `index.html` file in a web browser.
+
+## About the Steam Deck
+
+The Steam Deck is a portable PC gaming device that offers an all-in-one gaming experience on the go. It features a custom APU optimized for handheld gaming, allowing users to play AAA games efficiently.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For inquiries and support, please contact [Hamna.Ahmad.com](https://example.com).
